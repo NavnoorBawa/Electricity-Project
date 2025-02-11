@@ -1,1 +1,1 @@
-# Electricity-group
+# Electricity Project
